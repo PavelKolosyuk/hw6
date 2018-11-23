@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-size: 0; 
+}
+
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+.container {
+    width: 1200px;
+    
+}
+
+
+
+
+
+
+
+/* .Rectangle_14 {
+    background-image: -moz-linear-gradient( 90deg, rgb(252,227,138) 0%, rgb(243,129,129) 100%);
+    background-image: -webkit-linear-gradient( 90deg, rgb(252,227,138) 0%, rgb(243,129,129) 100%);
+    background-image: -ms-linear-gradient( 90deg, rgb(252,227,138) 0%, rgb(243,129,129) 100%);
+    position: absolute;
+    left: 350px;
+    top: 970px;
+    width: 380px;
+    height: 470px;
+    z-index: 19;
+  } */
+  
